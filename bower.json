@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-car-crash",
+  "version": "1.0.0",
+  "homepage": "https://github.com/datanobokemono/nodejs-car-crash",
+  "authors": [
+    "Data No Bokemono <datanobokemono@gmail.com>"
+  ],
+  "description": "Статистика ДТП на основе данных EGov",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
